@@ -1,0 +1,15 @@
+.idea
+maslo/node_modules/
+maslo/.expo/
+maslo/dist/
+maslo/npm-debug.*
+maslo/*.jks
+maslo/*.p8
+maslo/*.p12
+maslo/*.key
+maslo/*.mobileprovision
+maslo/*.orig.*
+maslo/web-build/
+
+# macOS
+maslo/.DS_Store
